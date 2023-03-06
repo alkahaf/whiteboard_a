@@ -1,0 +1,19 @@
+#whiteboard {
+    border: 1px solid black;
+}
+
+
+.container {
+    position: relative;
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+  }
+  
+  button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px;
+  }
+  
